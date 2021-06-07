@@ -22,3 +22,5 @@ Recreated repository
 change background color to light blue
 added hoover effects to landing page
 created break in Resume.
+finished editing layout of resume.
+updated header on resume and submit draft.
