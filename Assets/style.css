@@ -14,7 +14,7 @@
 body {
     color: var(--tertiary-color);
     font-family: Helvetica, Arial, san-serif;
-    background-color: beige;
+    background-color: lightskyblue;
     }
 /* apply styles to <header>*/ 
 header {
@@ -34,13 +34,14 @@ header {
      }
 header h1 { 
     font-weight: bold;
-     font-size: 36px;
+    font-size: 36px;
     color: var(--primary-color);
-      margin:0;
-      text-shadow: 0px 0 15px rgba (0,0,0,0.5)
+    margin:0;
+    text-shadow: 0px 0 15px rgba (0,0,0,0.5)  
 }
 header a { 
     text-decoration: none;
+    font-weight: bold;
     color: black;
 }
 header nav { 

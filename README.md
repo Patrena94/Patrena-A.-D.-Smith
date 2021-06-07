@@ -19,3 +19,4 @@ added a background color to the resume. Removed Contact information.
 updated IMG to allow for the Resume.html to open when the image is clicked.
 Updated HTML/CSS image to allow for the Horiseon challenge (refactoring) to load
 Recreated repository
+change background color to light blue
