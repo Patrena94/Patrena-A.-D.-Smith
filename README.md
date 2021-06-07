@@ -20,3 +20,5 @@ updated IMG to allow for the Resume.html to open when the image is clicked.
 Updated HTML/CSS image to allow for the Horiseon challenge (refactoring) to load
 Recreated repository
 change background color to light blue
+added hoover effects to landing page
+created break in Resume.
