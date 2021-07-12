@@ -7,7 +7,7 @@ added text color to the header.
 Added a paragraph to the about me section.
 added Resume html and linked to the style.css and secondary-style.css
 added resume text and format.
-Downloaded Digital Gaming image from Deigtial Gaming Market Retport 2015-202. Egpt-business.com to utilize for Pastel Images
+Downloaded Digital Gaming image from Digtial Gaming Market Retport 2015-202. Egpt-business.com to utilize for Pastel Images
 downloaded Data Hygine:big Data's Big Problem from hospitalitytech.com to utilize for Led Wall llot
 downloaded The future of Work Transforming Data image from tdwi.org for the Surf Report Mern Stack.
 downloaded calculators Casio USA from casio.com the for the image for calculator.
@@ -24,3 +24,8 @@ added hoover effects to landing page
 created break in Resume.
 finished editing layout of resume.
 updated header on resume and submit draft.
+Please click on the below image to see the most up to date projects:
+Team project is attached to first row first image by ashley-byrd downloaded from unsplashed.
+Password project is attached the first row second image by katie Harp downloaded form unsplashed
+Horiseon project is attached the first row third image HTML CSS jpg
+Smith Corporation Work Schedule is at attached to the second row first image. 
