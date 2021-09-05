@@ -217,12 +217,12 @@ img {border-style:none;
 }
 .contact-info a{color: black;
 }
-.Project2 {
+/* .Project2 {
   float: Center;
   border: solid  rgb(22, 8, 8);
   margin: 0;
   position: relative;
-  left:50%;
+  left:50%; */
   /* -ms-transform: translateX(-50%);
   transform:translateX(-50%);
   border-radius: 15px;
@@ -231,11 +231,11 @@ img {border-style:none;
   padding-top: 10px;
   padding-bottom: 10px;
   background: teal; */
-  color:  beige;
+  /* color:  beige;
   font-weight: bold;
   align-content: center;
   width: 50%; 
-}
+} */
 /*REACH OUT STYLES END*/
 .text-left{ text-align: left;
 }    
