@@ -26,7 +26,7 @@ header {
         position: sticky; 
         position: -webkit-sticky;
         top: 0;
-        background-image: url("../Assets/images/IMG_1354.JPG");
+        background-image: url("./images/IMG_1354.JPG");
         background-size: cover;
         background-position: 80%;
         background-attachment: fixed;
@@ -95,7 +95,7 @@ Section {padding: 60px;}
 /* hero Style Start*/
 
 .hero {
-    background-image: url("../Assets/images/IMG_1354.JPG");
+    background-image: url("./images/IMG_1354.JPG");
     background-position: 100%;
     background-attachment: fixed;
     background-size: cover;
@@ -151,34 +151,6 @@ Section {padding: 60px;}
     padding: 5px;
     justify-content: space-between;
 }
-
-/* .Expertise-card-wrapper {
-    display: flex;
-    flex-direction: row;
-}
-.Expertise-card-img {
-    position: relative;
-    width: var (--card-width);
-}
-/* .Expertise-card-img { float: left; */
-/* z-index: 0;
-max-width: var(--card-width);
-Margin: 5px;
-justify-content: space-between;
-} */
-/* .Expertise {
-    width: 100%;
-    margin: 25px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 50px;
-}
-.Expertise-text {
-    width: var(--card-width);
-    z-index:0;
-    color: gray;
-    font-weight: bold; */
 
 .w3-flex-row img { align-content: center;
   width: 305;
@@ -244,6 +216,25 @@ img {border-style:none;
     font-style: normal;
 }
 .contact-info a{color: black;
+}
+.Project2 {
+  float: Center;
+  border: solid  rgb(22, 8, 8);
+  margin: 0;
+  position: relative;
+  left:50%;
+  /* -ms-transform: translateX(-50%);
+  transform:translateX(-50%);
+  border-radius: 15px;
+  padding-left: 100px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: teal; */
+  color:  beige;
+  font-weight: bold;
+  align-content: center;
+  width: 50%; 
 }
 /*REACH OUT STYLES END*/
 .text-left{ text-align: left;
