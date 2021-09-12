@@ -223,32 +223,12 @@ img {border-style:none;
     height:233px; */
     margin: 25px;
     margin-right: 0px;
-    border:none;
 } 
 
 .card-img-overlay {
     text-align: center;
 }
-/* .Project2 {
-  float: Center;
-  border: solid  rgb(22, 8, 8);
-  margin: 0;
-  position: relative;
-  left:50%; */
-  /* -ms-transform: translateX(-50%);
-  transform:translateX(-50%);
-  border-radius: 15px;
-  padding-left: 100px;
-  padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background: teal; */
-  /* color:  beige;
-  font-weight: bold;
-  align-content: center;
-  width: 50%; 
-} */
-/*REACH OUT STYLES END*/
+
 .text-left{ text-align: left;
 }    
 .text-right{ text-align: right;
