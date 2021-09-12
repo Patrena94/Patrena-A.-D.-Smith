@@ -20,13 +20,11 @@ The Portofolio provides an employer with an high level overview of my profession
 
  5.[Usage](#Usage)
 
- 6.[Screencastify](#Screencastify)
+ 6.[Contribution](#Contribution)
 
- 7.[Contribution](#Contribution)
+ 7.[Test](#Test)
 
- 8.[Test](#Test)
-
- 9.[Screenshots](#Screenshots)
+ 8.[Screenshots](#Screenshots)
 
  # Questions  
 
