@@ -239,6 +239,10 @@ address{
 
 .card-img-overlay {
     text-align: center;
+    /* font-size: 36px; */
+}
+.card-title-Center {
+font-size: 40px;
 }
 
 .text-left{ text-align: left;
