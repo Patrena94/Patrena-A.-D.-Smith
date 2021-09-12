@@ -141,6 +141,15 @@ Section {padding: 60px;}
     margin: 0 auto;
     text-align: center;
 }
+
+p {
+    line-height: 1.7; 
+    color:grey; 
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
 .Resume-img {flex: 1 12%;
  max-width: 100%;}
 
@@ -196,7 +205,7 @@ img {border-style:none;
     justify-content: space-between;
     text-align: left;
 }
-.contact-info> * {
+.contact-info {
     flex: 1;
     margin: 15px;
 }
@@ -216,6 +225,9 @@ img {border-style:none;
     font-style: normal;
 }
 .contact-info a{color: black;
+}
+address{
+    text-align: center;
 }
 
 .card {
