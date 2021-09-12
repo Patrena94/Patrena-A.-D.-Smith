@@ -217,6 +217,18 @@ img {border-style:none;
 }
 .contact-info a{color: black;
 }
+
+.card {
+    /* width:354px;
+    height:233px; */
+    margin: 25px;
+    margin-right: 0px;
+    border:none;
+} 
+
+.card-img-overlay {
+    text-align: center;
+}
 /* .Project2 {
   float: Center;
   border: solid  rgb(22, 8, 8);
